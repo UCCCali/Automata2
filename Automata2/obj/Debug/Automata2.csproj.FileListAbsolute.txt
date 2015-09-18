@@ -1,0 +1,12 @@
+C:\Users\JuanGuillermo\Desktop\Automata2\Automata2\bin\Debug\Automata2.exe.config
+C:\Users\JuanGuillermo\Desktop\Automata2\Automata2\bin\Debug\Automata2.exe
+C:\Users\JuanGuillermo\Desktop\Automata2\Automata2\bin\Debug\Automata2.pdb
+C:\Users\JuanGuillermo\Desktop\Automata2\Automata2\obj\Debug\Automata2.csprojResolveAssemblyReference.cache
+C:\Users\JuanGuillermo\Desktop\Automata2\Automata2\obj\Debug\Automata2.exe
+C:\Users\JuanGuillermo\Desktop\Automata2\Automata2\obj\Debug\Automata2.pdb
+D:\JGGomez\UCC\Compiladores\Codigo\Automata2\Automata2\bin\Debug\Automata2.exe.config
+D:\JGGomez\UCC\Compiladores\Codigo\Automata2\Automata2\obj\Debug\Automata2.exe
+D:\JGGomez\UCC\Compiladores\Codigo\Automata2\Automata2\obj\Debug\Automata2.pdb
+D:\JGGomez\UCC\Compiladores\Codigo\Automata2\Automata2\bin\Debug\Automata2.exe
+D:\JGGomez\UCC\Compiladores\Codigo\Automata2\Automata2\bin\Debug\Automata2.pdb
+D:\JGGomez\UCC\Compiladores\Codigo\Automata2\Automata2\obj\Debug\Automata2.csprojResolveAssemblyReference.cache
